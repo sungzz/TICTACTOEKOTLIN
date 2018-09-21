@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:gravity="center">
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton1"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -36,7 +36,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton2"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -45,7 +45,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton3"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -60,7 +60,7 @@
         android:layout_height="wrap_content"
         android:gravity="center">
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton4"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -69,7 +69,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton5"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -78,7 +78,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton6"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -93,7 +93,7 @@
         android:layout_height="wrap_content"
         android:gravity="center">
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton7"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -102,7 +102,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton8"
             android:layout_width="0dp"
             android:layout_height="120dp"
@@ -111,7 +111,7 @@
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
 
-        <ImageView
+        <ImageButton
             android:id="@+id/imgbutton9"
             android:layout_width="0dp"
             android:layout_height="120dp"
