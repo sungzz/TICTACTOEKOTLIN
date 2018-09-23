@@ -5,6 +5,7 @@
     android:id="@+id/tableLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#000"
     android:gravity="center"
     tools:context=".TicTacToeActivity">
 
@@ -19,6 +20,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="TIC TAC TOE GAME"
+            android:textColor="#fff"
             android:textSize="30sp" />
     </TableRow>
 
@@ -32,6 +34,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -41,6 +44,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -50,6 +54,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -65,6 +70,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -74,6 +80,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -83,6 +90,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -98,6 +106,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -107,6 +116,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
@@ -116,6 +126,7 @@
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_weight="1"
+            android:background="#000"
             android:onClick="imageButtonTap"
             android:scaleType="fitCenter"
             android:src="@drawable/place_holder" />
